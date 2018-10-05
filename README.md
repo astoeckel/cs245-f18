@@ -4,7 +4,7 @@ This repository contains unofficial material for the University of Waterloo cour
 
 Feel free to report mistakes either by emailing Andreas Stöckel (UWaterloo user name `astoecke`) or by opening an issue/pull request in this GitHub repository.
 
-## Cheat-Sheets
+## Reference-Sheets
 
 * **Natural deduction rules for propositional logic**<br/>
   A list of basic and derived inference rules for Natural Deduction proofs in the context of propositional logic. Note that during the exam or in assignments you may not always be allowed to use all derived rules.<br/>
