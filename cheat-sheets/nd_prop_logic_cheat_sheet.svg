@@ -131,11 +131,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1157.1108"
-     inkscape:cy="667.43451"
+     inkscape:zoom="1"
+     inkscape:cx="1004.5503"
+     inkscape:cy="412.4363"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3559"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1403"
@@ -644,6 +644,49 @@
              y="133.81047"
              x="301.70383"
              id="tspan4256"
+             sodipodi:role="line">!</tspan></text>
+      </g>
+      <text
+         id="text1758-7-0"
+         y="238.4796"
+         x="173.55173"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';letter-spacing:0px;word-spacing:0px;opacity:0.95;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan1230-5"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke-width:0.26458332"
+           y="238.4796"
+           x="173.55173"
+           sodipodi:role="line">Depending on the assignment you</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke-width:0.26458332"
+           y="244.65321"
+           x="173.55173"
+           sodipodi:role="line"
+           id="tspan6417">may not always be allowed to use all</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke-width:0.26458332"
+           y="250.82683"
+           x="173.55173"
+           sodipodi:role="line"
+           id="tspan6419">derived rules!</tspan></text>
+      <g
+         transform="translate(-136.62671,106.91706)"
+         style="opacity:0.95"
+         id="g4263-1">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path4254-6"
+           d="m 306.66449,135.05595 -4.00304,-6.93346 -3.98765,6.93021 z"
+           style="fill:#999999;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <text
+           id="text4258-6"
+           y="133.81047"
+           x="301.70383"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:4.23333311px;fill:#f9f9f9;stroke-width:0.26458332"
+             y="133.81047"
+             x="301.70383"
+             id="tspan4256-2"
              sodipodi:role="line">!</tspan></text>
       </g>
     </g>
