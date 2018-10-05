@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="408.10458mm"
-   height="282.93011mm"
-   viewBox="0 0 408.10458 282.93011"
+   width="418.10458mm"
+   height="292.93011mm"
+   viewBox="0 0 418.10458 292.93011"
    version="1.1"
    id="svg8"
    sodipodi:docname="nd_prop_logic_cheat_sheet.svg"
@@ -131,9 +131,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1006.2521"
-     inkscape:cy="659.85264"
+     inkscape:zoom="0.5"
+     inkscape:cx="1157.1108"
+     inkscape:cy="667.43451"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -149,75 +149,75 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5">
     <sodipodi:guide
-       position="2.7304284,253.95627"
+       position="7.7304283,258.95626"
        orientation="1,0"
        id="guide3397"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="82.63459,253.95628"
+       position="87.634589,258.95627"
        orientation="1,0"
        id="guide3399"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="162.53876,253.95627"
+       position="167.53876,258.95626"
        orientation="1,0"
        id="guide3401"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="241.43579,253.95628"
+       position="246.43579,258.95627"
        orientation="1,0"
        id="guide3403"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="291.14205,251.26268"
+       position="296.14205,256.26267"
        orientation="1,0"
        id="guide3405"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-8.1998018,243.96622"
+       position="-3.1998018,248.96621"
        orientation="0,1"
        id="guide3407"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="43.623756,251.26268"
+       position="48.623755,256.26267"
        orientation="0,1"
        id="guide3409"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.7304274,192.31321"
+       position="7.7304273,197.3132"
        orientation="0,1"
        id="guide3491"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.7304274,140.66017"
+       position="7.7304273,145.66016"
        orientation="0,1"
        id="guide3493"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.7304274,89.007171"
+       position="7.7304273,94.007165"
        orientation="0,1"
        id="guide3495"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="35.391855,37.354153"
+       position="40.391855,42.354147"
        orientation="0,1"
        id="guide3497"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.7304274,-14.298855"
+       position="7.7304273,-9.2988603"
        orientation="0,1"
        id="guide3499"
        inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3561"
-       originx="-8.0127122"
-       originy="-17.770822" />
+       originx="-3.0127122"
+       originy="-12.770827" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -235,7 +235,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.0127134,3.7009302)">
+     transform="translate(-3.0127134,8.7009302)"
+     style="opacity:0.95">
     <rect
        style="opacity:1;vector-effect:none;fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4299-4-3-1"
@@ -266,15 +267,15 @@
        y="17.127048" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="71.928848"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="211.82729"
        y="6.2177696"
        id="text817"><tspan
          sodipodi:role="line"
          id="tspan815"
-         x="71.928848"
+         x="211.82727"
          y="6.2177696"
-         style="font-size:12.69999981px;stroke-width:0.26458332">Natural Deduction for Propositional Logic</tspan></text>
+         style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Natural Deduction Inference Rules for Propositional Logic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1929,20 +1930,25 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.54601383px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;baseline-shift:sub;stroke-width:0.188126">ND</tspan> φ  </tspan></text>
       <text
          id="text817-0-6-6-0-5-0"
-         y="211.32852"
+         y="205.16481"
          x="290.89944"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#000000;stroke-width:0.26458332"
-           y="211.32852"
+           y="205.16481"
            x="290.89944"
            id="tspan815-0-4-5-5-1-0"
            sodipodi:role="line">Completeness</tspan><tspan
-           id="tspan4379-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:-0.18708867px;fill:#000000;stroke-width:0.26458332"
-           y="218.38408"
+           y="212.22037"
            x="290.89944"
-           sodipodi:role="line">“All entailments can be derived by ND”</tspan></text>
+           sodipodi:role="line"
+           id="tspan6243">“All formulae that are entailments can be</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:-0.18708867px;fill:#000000;stroke-width:0.26458332"
+           y="219.27592"
+           x="290.89944"
+           sodipodi:role="line"
+           id="tspan6247">derived by ND”</tspan></text>
       <text
          id="text841-7-7-3-0-9-6-8-1"
          y="245.61774"
@@ -1971,5 +1977,49 @@
          d="m 330.69479,238.76277 -4.87077,8.43644"
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       id="text3094-8-4"
+       y="40.625729"
+       x="172.23973"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="40.625729"
+         x="172.23973"
+         id="tspan3092-6-6"
+         sodipodi:role="line">A</tspan></text>
+    <text
+       id="text3094-8-4-5"
+       y="79.843323"
+       x="172.0891"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="79.843323"
+         x="172.0891"
+         id="tspan3092-6-6-1"
+         sodipodi:role="line">B</tspan></text>
+    <text
+       id="text3094-8-4-5-5"
+       y="123.02968"
+       x="172.06439"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="123.02968"
+         x="172.06439"
+         id="tspan3092-6-6-1-3"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       id="text3094-8-4-5-5-1"
+       y="177.8577"
+       x="172.06439"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';letter-spacing:0px;word-spacing:0px;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;stroke-width:0.26458332"
+         y="177.8577"
+         x="172.06439"
+         id="tspan3092-6-6-1-3-7"
+         sodipodi:role="line">D</tspan></text>
   </g>
 </svg>
