@@ -1,4 +1,4 @@
-# Unoffical material for the UWaterloo Course CS245 Fall 2018
+# Unoffical material for the UW course CS245 F18
 
 This repository contains unofficial material for the University of Waterloo course CS245 as taught in the fall term 2018. “Unofficial” means that there is absolutely no warranty that the material provided here is correct (i.e., it has not been checked by the main course instructors). Use at your own risk.
 
