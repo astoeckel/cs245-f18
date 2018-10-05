@@ -8,5 +8,5 @@ Feel free to report mistakes either by emailing Andreas Stöckel (UWaterloo user
 
 * **Natural deduction rules for propositional logic**<br/>
   A list of basic and derived inference rules for Natural Deduction proofs in the context of propositional logic. Note that during the exam or in assignments you may not always be allowed to use all derived rules.<br/>
-  [**Download PDF**](https://github.com/astoeckel/cs245-f18/raw/master/cheat-sheets/nd_prop_logic_cheat_sheet.pdf)
-  ([Preview PDF](https://github.com/astoeckel/cs245-f18/blob/master/cheat-sheets/nd_prop_logic_cheat_sheet.pdf)) ([Download Inkscape SVG](https://github.com/astoeckel/cs245-f18/raw/master/cheat-sheets/nd_prop_logic_cheat_sheet.svg))
+  [**Download PDF**](https://github.com/astoeckel/cs245-f18/raw/master/reference-sheets/nd_prop_logic_cheat_sheet.pdf)
+  ([Preview PDF](https://github.com/astoeckel/cs245-f18/blob/master/reference-sheets/nd_prop_logic_cheat_sheet.pdf)) ([Download Inkscape SVG](https://github.com/astoeckel/cs245-f18/raw/master/reference-sheets/nd_prop_logic_cheat_sheet.svg))
