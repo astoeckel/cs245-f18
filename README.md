@@ -20,3 +20,8 @@ Feel free to report mistakes either by emailing Andreas Stöckel (UWaterloo user
   Extended version of the reference sheet for propositional logic including the ∀e, ∀i, ∃e, ∃i rules.<br/>
   [**Download PDF**](https://github.com/astoeckel/cs245-f18/raw/master/reference-sheets/nd_pred_logic_reference_sheet.pdf)
   ([Preview PDF](https://github.com/astoeckel/cs245-f18/blob/master/reference-sheets/nd_pred_logic_reference_sheet.pdf)) ([Download Inkscape SVG](https://github.com/astoeckel/cs245-f18/raw/master/reference-sheets/nd_pred_logic_reference_sheet.svg))
+
+* **Equality and Peano Axioms in Predicate Logic**<br/>
+  Summary showing the Equality and Peano Axioms for use in Predicate Logic.<br/>
+  [**Download PDF**](https://github.com/astoeckel/cs245-f18/raw/master/reference-sheets/nd_axioms_peano_equality_reference_sheet.pdf)
+  ([Preview PDF](https://github.com/astoeckel/cs245-f18/blob/master/reference-sheets/nd_axioms_peano_equality_reference_sheet.pdf)) ([Download Inkscape SVG](https://github.com/astoeckel/cs245-f18/raw/master/reference-sheets/nd_axioms_peano_equality_reference_sheet.svg))
